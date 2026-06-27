@@ -1,6 +1,6 @@
 {
   "name": "nightwatch",
-  "version": "2.12.25",
+  "version": "2.12.26",
   "private": true,
   "engines": {
     "node": ">=20",
